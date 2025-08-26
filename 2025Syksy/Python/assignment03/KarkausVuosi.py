@@ -16,4 +16,3 @@ else:
     (
         print("vuotesi ei ole karkausvuosi")
     )
-#correction
