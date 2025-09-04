@@ -1,0 +1,19 @@
+11.
+	a.
+		3 m/s^2 * 36 s = 108 m/s. Nopeus kun lentokone nousi
+		(0 m/s + 108 m/s) / 2 = 54 m/s. Keskinopeus matkalle ennen nousua
+		54 m/s * 36 s = 1944 m. Matka jonka kone kulki ennen nousua
+	b.
+		Koneen nopeus oli 108 m/s. tai 388,8 km/h. kuten 'a' kohdassa todettiin
+12.
+	a.
+		((0 m/s + 4 m/s) / 2) * 4 s = 8 m. Kuljettu matka 0 - 4 s aikavälillä
+		((4 m/s + 4 m/s) / 2) * 3 s = 12 m. Kuljettu matka 4 - 7 s aikavälillä
+		((4 m/s + 0 m/s) / 2) * 3 s = 6 m. Kuljettu matka 7 - 10 s aikavälillä
+		8 m + 12 m + 6 m = 26 m. Kuljettu matka 0 - 10 s aikavälillä
+	b.
+		8 m + 12 m = 20 m. Kuljettu matka 0 - 7 s aikavälillä
+		20 m / 7 s = ~2.86 m/s. Keskinopeus aikavälillä 0 - 7 s
+	c.
+		4 m/s / 4 s (c-d viiva eli 2 s tangentti) = 1 m/s^2 Kiihtyvyys hetkellä 2 s
+		0 m/s / 10 s (e-f viiva eli 6 s tangentti) = 0 m/s^2 Kiihtyvyys hetkellä 6 s
