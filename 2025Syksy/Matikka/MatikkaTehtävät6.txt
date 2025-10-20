@@ -1,0 +1,26 @@
+Prosentti laskuja:
+	1.
+		5603851 - 4598336 = 1000000 + 10000 - 5000 + 515 = 1005515
+		1005515/4598336 * 100 = ~21.87
+		Eli väkiluku kasvoi noin 22%
+	2.
+		Hinta on 250 ja alv oli 24% joten hinta ilman alv = 250/1.24 = ~202
+		uuden alv:in kanssa tuote maksaa (~202*125.5)/100 = ~253 euroa
+Seuraavat kpl 4.7 , s.80:
+	1.
+		(100 + p) * (1 - 0,01p) = 95. = 100 + 1p - 1p - 0,01p^2 = 95. = 100 - 95 = -1p + 1p + 0,01p^2. = 500 = 1p^2. = √500 = p = ~22,36
+	2.
+		A + B = 5000
+		A/1,33 = B/1,38. = 1,38A = 1,33B.
+		1,33 + 1,38 = 2,71.
+		1,33 / 2,71 = A / 5000. = A = 6650 / 2.71 = ~2453,87
+		A brutto-osuus palkkiosta oli 2453,87 €, ja B brutto-osuus palkkiosta oli 2546,13 €
+	3.
+		1x + 1.1x + 1.21x = 16881 = 3.31x. = x = 5100
+		Elikkä osuudet olivat 5100 €, 5610 €, ja 6171 €.
+Ja sitten se probleemi:
+	laita kummatkin tiimalasit juoksemaan, kun 4min tiimalasi on loppunut käännä se.
+	sitten kun 7min tiimalasi on valmis käännä se, ja kun 4min tiimalasi loppuu yhden minuutin päästä-
+	käännä 7min tiimalasi uudestaan jotta se myös loppuu minuutissa. 4 + 3 + 1 + 1 = 9
+	
+	

@@ -1,0 +1,38 @@
+Tehtävä 18:
+	a.
+		Vektorin pituus on √(6^2 N + 4^2 N) = √(36 N + 16 N) = √52 N = ~7,2 N
+	b.
+		atan(6/4) = 56.31°. Eli Vektorin suunta on 56.31 astetta x-akselin suunnasta vastapäivään
+Tehtävä 19:
+	150 astetta x-akselista vastapäivään on 30 astetta -x-akselista myötäpäivään. Koska x ja -x suuntien välillä on 180 astetta.
+	5 m/s vektori = F
+	-(|5m/s| * cos(30°)) = Fx ~= -4,33 m/s
+	|5m/s| * sin(30°) = Fy = 2,5 m/s
+Tehtävä 20:
+	57 μT vektori = B
+	-(|57 μT| * cos(70°)) = Bx ~= -19,5 μT
+	-(|57 μT| * sin(70°)) = By ~= -53,56 μT
+	|𝐵⃗𝑥| = 19,5 μT
+	𝐵𝑥	 = -19,5 μT
+	|𝐵𝑥| = 19,5 μT
+	𝐵⃗𝑥	 = -19,5 μT𝑖
+	|𝐵⃗𝑦| = 53,56 μT
+	𝐵𝑦	 = -53,56 μT
+	|𝐵𝑦| = 53,56 μT
+	𝐵⃗𝑦	 = -53,56 μT𝑗
+Tehtävä 21:
+	E1 = 8 N/C. & E2 = 4,32 N/C.
+	E1 ja E2 suuntaero on 60°
+	Sanotaan että E1 suunta on x-akseli, ja y-akseli kulkee E1 läpi perpendikulaarisesti.
+	E2 = √(E2x^2 + E2y^2)
+	E2x on samansuuntainen kuin E1, eli E2 ja E2x välinen kulma on 60°
+	|E2x| = |4,32|*cos(60°) = 2,16
+	|E2y| = |4,32|*sin(60°) ~= 3,74
+	E = √((E1+E2x)^2 + E2y^2) = √(10,16^2 + 3,74^2) ~= √117,2 ~= 10,8 N/C
+	E ja x suuntaero = atan(3,74/10,16) = 20.21°
+	E suunta on 20.21 astetta E1 suunnasta E2 suuntaa päin
+	
+	
+	
+	
+	

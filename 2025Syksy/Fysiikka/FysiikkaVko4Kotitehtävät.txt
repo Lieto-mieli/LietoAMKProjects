@@ -1,0 +1,4 @@
+Tehtävä 13:
+	Olli vaelsi yhteensä 20 km (8 + 6 + 2 + 1 + 3), 
+	ja hän lopetti matkan kolme kilometriä itään ja viisi kilometriä pohjoiseen (8x + 6y - 2x - 1y - 3x = 3x + 5y)
+	
