@@ -1,0 +1,39 @@
+Tehtävä 1.
+	(2,5 N * 6,4 s) / 0,79 kg = ~20,25 m/s
+	~20,25 m/s + 4,7 m/s = ~24,95 m/s
+	Kappaleen loppunopeus = ~25 m/s
+	(4,7 m/s + ~24,95 m/s) / 2 = ~14,83 m/s
+	~14,83 m/s * 6,4 s = ~94,9 m
+	Kappaleen kulkema matka = 94,9 m
+Tehtävä 2.
+	g = 9,8 m/s^2
+	850 kg * g = 8330 N
+	Painovoiman suure hissiä kohti on 8330 N joten-
+	Vaijerin jännitysvoima on siis myös: 8330 N
+	3,3 m/s / 2 s = 1,65 m/s^2
+	1,65 m/s^2 * 850 kg = 1402,5 N
+	8330 N + 1402,5 N = 9732,5 N 
+	Jarrutuksen aikainen jännitysvoima: 9732,5 N
+Tehtävä 3.
+	6,5° / 90° = ~0,07
+	1200 kg + (1200 kg * ~0,07) = ~1287 kg
+	~1287 kg / 1 m/s^2 = ~1287 N
+	Jännitysvoima: ~1287 N
+	1200 kg * g = 11760 N
+	Kokonaistukivoima: 11760 N
+Tehtävä 4.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
