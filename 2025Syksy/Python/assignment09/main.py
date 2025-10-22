@@ -12,7 +12,8 @@ class Auto:
         self.nopeus = max(self.nopeus, 0)
     def kulje(self, matka_h):
         self.kuljettuMatka += matka_h*self.nopeus
-
+    def race(self):
+        return
 ralliAutot = []
 for i in range(1,11):
     new = Auto(f"ABC-{i}", random.randint(100, 200))
