@@ -1,0 +1,215 @@
+.center {
+    align-self:center;
+}
+
+#header_m {
+    border: 10px solid yellow;
+    padding-right: 0px;
+    padding-left: 0px;
+    background-color: yellow;
+}
+#header_d {
+    border: 10px solid darkslateblue;
+    padding-right: 0px;
+    padding-left: 0px;
+    background-color: darkslateblue;
+}
+#header_s {
+    border: 10px solid lightgreen;
+    background-color: lightgreen;
+}
+
+#main {
+    background: url('noodlesheart.gif') 100% 100% fixed;
+    height: 100%;
+    width: 90%;
+}
+#disco {
+    background: url('retro_disco_ball.gif') 100% 100% fixed;
+    height: 100%;
+    width: 90%;
+}
+#summon {
+    background-color: green;
+    height: 100%;
+    width: 90%;
+}
+#special {
+    display: inline-block;
+    max-width: 100px;
+    vertical-align: middle;
+    padding: 49px 32px;
+    border: 1px outset;
+    border-radius: 3px;
+    color: black;
+    text-decoration: none;
+}
+#special_d {
+    display: inline-block;
+    max-width: 100px;
+    vertical-align: middle;
+    padding: 49px 32px;
+    border: 1px outset;
+    border-radius: 3px;
+    color: white;
+    text-decoration: none;
+}
+#links {
+    position:absolute;
+    top:0px;
+    right:154px;
+}
+.link {
+    display: inline-block;
+    max-width: 100px;
+    vertical-align: middle;
+    padding: 60px 60px;
+    border: 1px outset;
+    border-radius: 3px;
+    color: black;
+    text-decoration: none;
+}
+.link_d {
+    display: inline-block;
+    max-width: 100px;
+    vertical-align: middle;
+    padding: 60px 60px;
+    border: 1px outset;
+    border-radius: 3px;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    font-size: 20px;
+    background-color: rgb(255 220 50 / 90%);
+}
+
+html, body {
+    margin-left: 80px;
+    margin-right: 100px;
+    margin-top: 0;
+    padding-bottom: 100px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#pagetitle_m {
+    padding: 20px;
+    background-color: rgb(255 0 0);
+    color: white;
+    width: 50%;
+}
+#pagetitle_d1 {
+    padding: 20px;
+    background-color: rgb(0 0 0 / 60%);
+    color: white;
+    width: 50%;
+}
+#pagetitle_d2 {
+    text-align:center;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: rgb(0 0 0 / 60%);
+    color: white;
+    width: 50%;
+}
+#pagetitle_s {
+    padding: 20px;
+    background-color: rgb(0 255 0);
+    color: darkslateblue;
+    width: 50%;
+}
+
+#localtitle_m {
+    padding: 10px;
+    width: 500px;
+    font-size: 50px;
+    background-color: rgb(180 255 50 / 90%);
+    margin: 10px auto;
+}
+.localtitle_d {
+    margin: 10px auto;
+    text-align:center;
+    padding: 10px;
+    background-color: rgb(150 150 170);
+    width: 280px;
+    height: 60px;
+}
+#localtitle_s {
+    padding: 10px;
+    background-color: rgb(70 255 80 / 70%);
+    position: absolute;
+    top: 150px;
+    right: 770px;
+    width: 500px;
+}
+
+#bigimg {
+    padding-bottom: 10px;
+    position: absolute;
+    top: 200px;
+    right: 154px;
+}
+#coninfo {
+    position: absolute;
+    top: 200px;
+    left: 154px;
+    font-size: 20px;
+}
+
+#darkbg_m {
+    padding-top: 150px;
+    background-color: rgb(255 0 0 / 50%);
+    padding-bottom: 150px;
+    text-align: center;
+}
+#darkbg_d {
+    background-color: rgb(0 0 0 / 50%);
+    text-align: center;
+}
+#darkbg_s {
+    padding-top: 10px;
+    background-color: rgb(0 255 0 / 50%);
+    padding-bottom: 600px;
+
+}
+
+#pasta_m {
+    margin: 10px auto;
+    width: 700px;
+    padding: 10px;
+}
+.pasta_d {
+    padding: 10px;
+    background-color: rgb(150 150 170);
+    width: 280px;
+    height: 240px;
+    text-align: center;
+}
+#pasta_s {
+    padding: 10px;
+    background-color: rgb(100 255 100 / 70%);
+    position: absolute;
+    top: 300px;
+    right: 770px;
+    width: 500px;
+    height: 150px;
+    font-size: 30px;
+}
+.prod {
+    margin: 10px auto;
+    display: inline-block;
+    padding: 20px;
+    width: 300px;
+    height: 700px;
+    background-color: rgb(50 50 50);
+}
+.timg {
+    margin: 0px 10px;
+    align-self: center;
+    background-color: white;
+}

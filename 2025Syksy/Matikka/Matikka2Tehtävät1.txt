@@ -37,3 +37,4 @@
 		Kone lensi noin 8,3:n kilometrin korkeudella.
 5. Viikon ongelma:
 	Ympärysmitta = 2πr. jos r += 1 niin ympärysmitta += 2π1 = 6,283
+	
