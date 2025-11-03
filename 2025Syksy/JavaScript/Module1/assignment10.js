@@ -30,10 +30,11 @@ for (let d = 0; d < allDice.length; d++) {
         for (let f = 0; f < numOfFaces; f++) {
             probabilities[p + (f + 1)] = (probabilities[p] * curDice[f]) + probabilities[p + (f + 1)];
         }
+        probabilities[p] = 0;   
     }
     curNums += Object.keys(curDice).length;
 }
-outputf = probabilities[interest]
+outputf = probabilities[interest];
 document.querySelector('#target1').innerHTML = (outputf * 100).toFixed(4) + '% chance for the sum of ' + numOfDice + ' d' + numOfFaces + ' to be ' + interest;
 for (let s = 0; s < 10000; s++) {
     outputr = 0
