@@ -1,6 +1,6 @@
 'use strict';
 function form() {
-    
+
     let fn = document.forms["f"]["firstname"].value;
     let ln = document.forms["f"]["lastname"].value;
     return "Your name is " + fn + " " + ln;

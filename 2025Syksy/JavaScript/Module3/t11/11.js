@@ -103,23 +103,23 @@ for (let i = 0; i < picArray.length; i++) {
         im.alt = picArray[i].title;
     }
 
-    let title = document.createElement("h2")
+    let title = document.createElement("h2");
     title.textContent = picArray[i].title;
     newart.appendChild(title);
 
-    let f = document.createElement("figure")
+    let f = document.createElement("figure");
     newart.appendChild(f);
 
-    let img = document.createElement("img")
+    let img = document.createElement("img");
     img.src = picArray[i].image.medium;
     img.alt = picArray[i].title;
     f.appendChild(img);
 
-    let caption = document.createElement("figcaption")
+    let caption = document.createElement("figcaption");
     caption.textContent = picArray[i].caption;
     f.appendChild(caption);
 
-    let p = document.createElement("p")
+    let p = document.createElement("p");
     p.textContent = picArray[i].description;
     newart.appendChild(p);
 
