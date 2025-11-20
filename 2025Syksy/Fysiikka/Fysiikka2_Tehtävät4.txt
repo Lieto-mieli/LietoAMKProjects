@@ -1,0 +1,14 @@
+g = 9,8 m/s^2
+Tehtävä 12.
+	22 km/h = ~5,55 m/s
+	120 km/h = ~33,33 m/s
+	
+	0,5*1,2kg*(5,55m/s)^2 + 1,2kg*g*87m + ilmanvastusvoima = 0,5*1,2kg*(33,33m/s)^2
+	18,5 J + 1023,12 J - 666,67 J = - ilmanvastusvoima
+	ilmanvastusvoima = ~-374,95 J
+	
+Tehtävä 13.
+	0,5*1kg*(12m/s)^2 + 1kg*g*27m = 0,5*1kg*(x m/s)^2
+	336,6 = 0,5*1kg*(x m/s)^2
+	√(336,6 * 2 / 1) = x m/s = 25,946 m/s
+	

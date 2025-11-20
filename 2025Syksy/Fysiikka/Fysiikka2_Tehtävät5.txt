@@ -1,0 +1,6 @@
+Tehtävä 14.
+	a.
+		Jos amplitudi on 15 cm, ja ääri alin asema on -4y cm. Keskiasema on 11y cm, ja ääri korkein asema on 26y cm.
+	b.
+		Jaksonaika on 0,9 s joten värähtelyn taajuus on 1 / 0,9 = ~1,11... Hz.
+		Kulmataajuus = ~1,11... Hz * 2 * π = ~6,98 1/s
