@@ -1,0 +1,33 @@
+1. Alkuun yksi kantavektoritehtävä:
+	ua = 2ub (jotta i=j)
+	2a+4b = 2i+2j-2k
+	(7/3)a + (14/3)b = 2,33i+2,33j+2,33k
+	(2/3)c = 1,33i+1,33j+0,66k
+	u = (7/3)a + (14/3)b - (2/3)c
+	
+2. Kertausta
+	1. Määritä vektorien pituudet:
+		u = √(3^2 + (-5)^2 + 2^2) = √38 = ~6,164
+		v = √((-1)^2 + (-1)^2 + (-1)^2) = √3 = ~1,732
+		w = √(2^2 + 2^2 + (-4)^2) = √24 = ~4,899
+		
+	2. Määritä seuraavien vektorien pituus  u, v w edellisestä tehtävästä
+		a = 2u - v = √(7^2 + (-9)^2 + 5^2) = √155 = ~12,450
+		b = -3v + 2w = √(7^2 + 7^2 + (-5)^2) = √123 = ~11,091
+		
+	3. Määritä seuraavien napakoordinaattien kooordinaattiiesitykset:
+		6,9∠55° = (6,9 * cos(55))i + (6,9 * sin(55))j = ~3,958i + ~5,652j
+		25∠159° = (25 * cos(159))i + (25 * sin(159))j = ~-23,340i + ~8,959
+		
+	4. Määritä vektorien u = 3,5i -9j ja v = -5i + 8,7j napakoordinaattiesitykset.
+		u = 3,5i - 9j = √(3,5^2 + 9^2)∠(arcsin[9 / √(3,5^2 + 9^2)])° = ~9,657∠68,75°
+		v = -5i + 8,7j = √(5^2 + 8,7^2)∠(arcsin[8,7 / √(5^2 + 8,7^2)])° = ~10,034∠60,11°
+		
+	5. Olkoon A = (4, 3) ja B = (-3, 2) Määritä piste P, joka jakaa janan AB suhteessa 2:4.
+		P = A + [(B - A) * (2/6)] = (4, 3) + [(-7, -1) * (2/6)] = (4, 3) + (~-2,33, ~-0,33) = (~1,66, ~2,66)
+		
+	6. Määritä edellisen tehtävän pisteiden A ja B määrittämien paikkavektoeiden keskipiste. 
+		[A, B] Keskipiste = [A + (0, 0) + B + (0, 0)] / 4= [(4, 3) + (0, 0) + (-3, 2) + (0, 0)] / 4 = (1, 5) / 4 = (0,25, 1,25)
+		
+	7. Olkoon suunnikkaan ABCD kolme kärkeä  A = (1, 0, 1), B = (2, 1, 1), C = (1, 2, 3). Määritä piste D.
+		D = A + (C-B) = (1,0,1) + [(1,2,3)-(2,1,1)] = (1,0,1) + (-1,1,2) = (0, 1, 3)

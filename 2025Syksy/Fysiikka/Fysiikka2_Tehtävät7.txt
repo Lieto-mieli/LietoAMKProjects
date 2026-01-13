@@ -1,0 +1,21 @@
+Tehtävä 21.
+	Värähtelijän massa = 0,7 kg = m. Jousivakio = 4,0 N/m = k. Vastuskerroin = 0,9 kg/s = 𝛽. Pakkovoima = (0,50 N)∙sin(2πft) = 𝐹. 
+	Vaimennuskerroin = 𝛽/2m = 0,9 kg/s / 1,4 kg = ~0,64 1/s = 𝛿
+	𝜔0 = √(k/m) = √(4 N/m / 0,7 kg) = ~2,39 1/s = 𝜔v,res.  
+	𝜔res = √[(𝜔0)^2 − 2(𝛿^2)] = √[(~2,39 1/s)^2 − 2(~0,41 1/s)] = √(~5,71 1/s − ~0,83 1/s) = √(~5,03 1/s) = ~2,24 1/s
+	Amplitudiresonanssi taajuus = 𝜔res / 2 / π = ~2,24 1/s / 2 / π = ~0,3570 1/s^2
+	Nopeusresonanssi taajuus = 𝜔v,res / 2 / π = ~2,39 1/s^2 / 2 / π = ~0,3804 1/s^2
+Tehtävä 22.
+	Taajuus = 1,5 hz. 1,5 hz * 2 * π = ~9,42 hz = 𝜔. Pakkovoiman amplitudi = 0,50 N = 𝐹hattu
+	Liikkeen amplituudi = yhattu = 0,5 / √[(4,0 − 0,7 * ~9,42^2)^2 + 0,9^2 * ~9,42^2] = ~0,008504 m
+	Nopeuden amplituudi = vhattu = 0,5 / √[(4,0 − 0,7 * ~9,42^2)^2 / ~9,42^2 + 0,9^2] = 0,080151 m/s
+Tehtävä 23.
+	Aaltoliikkeellä kestää puolet jaksoajasta mennä alimmasta pisteestä ylimpään pisteeseen.
+	Jaksoaika = 1,9 m / 1,7 m/s = ~1,1176 s
+	Turistilla kestää ~1,1176 s / 2 = ~0,5588 s nousta aallon pohjalta harjalle.
+Tehtävä 24.
+	a.
+		Aallonpituus = v/f = 6 cm/s / 0,25 1/s = 24 cm
+		Aaltoluku = 2π/0,24 m = 26,17994 1/m
+	b.
+		Aaltoliikkeen nopeus on 0,06 m/s, joten kohdassa 0,30 m köysi alkaa värähtelemään 0,30 m / 0,06 m/s = 5 s päästä
