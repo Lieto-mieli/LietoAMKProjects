@@ -13,7 +13,6 @@ Q = 1,602 × 10^-19 C
 	F/E = q = 98,1 m/s^2 / 110000 (kgm/s^2)/C = ~0,000892 C/kg
 k = 9,0 * 10^9 Nm^2/C^2
 3.
-	ensimmäisen kappaleen sähkökentän voimakkuus keskipisteessä = (9,0 * 10^9 Nm^2/C^2) * 0,00 000 000 99 C / 0,27 m = ~1222,2.. N/C
+	ensimmäisen kappaleen sähkökentän voimakkuus keskipisteessä = (9,0 * 10^9 Nm^2/C^2) * 0,00 000 000 99 C / 0,27^2 m = ~1222,2.. N/C
 	ja sitten toisen = ~1074,047.. N/C
 	koska voimat ovat vastakkaisia niiden vektori summa = |~1222,2.. - ~1074,047..| = ~148,148.. N/C
-	
