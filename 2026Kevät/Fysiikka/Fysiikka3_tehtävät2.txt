@@ -1,0 +1,22 @@
+Tehtävä 4.
+	𝜎 = 𝑄/𝐴 = 0,0000041 C / 3,2 m^2 = 0,00000128125 C/m^2
+	E = 𝜎/2𝜀0 = 0,00000128125 C/m^2 / 2 * 8,854 * 10^−12 C^2/Nm^2 = ~72354,3 N/C
+Tehtävä 5.
+	ek1 = 0,5 * (1*10^6 m/s)^2 * (9,109*10^-31 kg) = ~4,5545*10^-19 Nm
+	ek2 = 0,5 * (2*10^6 m/s)^2 * (9,109*10^-31 kg) = ~1,8218*10^-18 Nm
+	wkok = ek2 - ek1 = ~1,36635*10^-18 Nm
+	sähkökentän varattuun tuottama voima = E*q = 1700 N/C * 1,6*10^-19 C = ~2,72*10^-16 N
+	~1,36635*10^-18 Nm / ~2,72*10^-16 N = ~0,00502 m
+Tehtävä 6.
+	a.
+		E = 9*10^9 Nm^2/C^2 * (0,05 nC / 2,5^2 m) = 0,072 N/C
+		q = 2 nC
+		F = q * E = 2 nC * 0,072 N/C = 0,144 nC
+	b.
+		E = 9*10^9 Nm^2/C^2 * (2 nC / 2,5^2 m) = 2,88 N/C
+		q = 0,05 nC
+		F = q * E = 0,05 nC * 2,88 N/C = 0,144 nC
+Tehtävä 7.
+	eriste pallo polarisoituu ja kokee vahvemman voiman kohti metallipalloa
+Tehtävä 8.
+	koska kamman sähkökenttä siirtää paperin miinus ja plus varauksien keskipisteet erikseen toisistaan (polarisoituu)
