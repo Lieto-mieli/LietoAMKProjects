@@ -1,0 +1,29 @@
+Technical specifications:
+	Crowtail- Pulse Sensor:
+		Voltage: 3-5V
+		Diameter: 16mm
+		Magnification: 330
+		Led wavelength: 609nm
+		Dimensions(mm):20.0(L)x20.0(W)x9.8(H)
+	Raspberry Pi Pico W:
+		21 mm × 51 mm form factor
+		Operating temperature -20°C to +70°C 
+		Supported input voltage 1.8–5.5V DC
+Glossary:
+	HR - Heart Rate
+	BPM - Beats Per Minute
+	HRV - Heart Rate Variability
+	PPG - Photoplethysmography
+	IBI - Inter-Beat-Interval
+	ECG - Electrocardiography
+	PPI - Peak-to-Peak Interval
+	ICU - Intensive Care Unit
+	ABP - Aortic Blood Pressure
+	ANS - Autonomic Nervous System
+	SNS - Sympathetic Nervous System
+	PNS - Parasympathetic Nervous System
+	NN - Normal value
+	RMSSD - Root mean square of the successive differences
+	SDNN - Standard deviation of the NN (R-R) intervals
+	NN50 - The number of pairs of successive NN (R-R) intervals that differ by more than 50 ms
+	PNN50 - The proportion of NN50 divided by the total number of NN (R-R) intervals
