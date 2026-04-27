@@ -1,0 +1,39 @@
+Kpl 5.4 s. 100: Teht 1 a) ja b) & Teht 4 samasta kappaleesta
+	1.
+		a. -1
+		b. 0
+	4.
+		lentää 87,5 m. korkein kohta on 43,75 m kohdalla eli korkein kohta on (-0.0063*(43,75^2))+(0.55*43,75) = ~12,00390625 m
+Kpl 5.5 s 104, teht. 7 ja 9.
+	7.
+		80^2:30 = 6400:30
+		60^2 / 6400 * 30 = 3600 / 6400 * 30= 0,5625 * 30 = = 16.875 m
+		100^2 / 6400 * 30 = 10000 / 6400 * 30= 1,5625 * 30 = = 46.875 m
+		100^2 / 6400 * 30 = 14400 / 6400 * 30= 2,25 * 30 = = 67,5 m
+	9.
+		0.375x^3 - 3.25x^2 + 17.125x - 5.25 #????? miksi tää on niin ilkeä
+Kpl 8.1 s 133
+	1.
+		a. luvut joilla juurrettava on ei-negatiivinen
+		b. x != 0
+		c. luvut joilla juurrettava on ei-negatiivinen, ja x != 5
+	2.
+		a. kaikki luvut jotka ovat suurempia kuin nolla
+		b. kaikki luvut yhdestä neljään
+Kpl 8.3 s 138
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Kpl 8.5 s 142
+	f(0):f(1) = 1:~2,718. f(10):f(11) = ~2,718^10:~2,718^11 = 1:~2,718. f(100):f(101) = ~2,718^100:~2,718^101 = 1:~2,718. 
+	

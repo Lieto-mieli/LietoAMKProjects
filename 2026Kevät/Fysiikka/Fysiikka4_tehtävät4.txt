@@ -1,0 +1,7 @@
+8.
+	a.
+		käämin poikkipinnan läpäisevä magneettivuo = 𝛷 = B*A*cos(𝜃) = 0,23 T * pi * (0,074 m / 2)^2 * cos(0) = 0,000989193 Wb
+	b.
+		0,23 T * pi * (0,074 m / 2)^2 * cos(90) = 0 Wb
+	c.
+		0,23 T * pi * (0,074 m / 2)^2 * cos(24) = ~0,000903673 Wb

@@ -1,0 +1,47 @@
+1.
+	5 bands, 
+	first color: grey, digit = 8, 
+	second color: grey, digit = 8, 
+	third color: violet, digit = 7, 
+	fourth color: gold, multiplier = 0,1x, 
+	fifth color: brown, tolerance = 1%
+	resistance = 88,7 Ω
+	Resistor resistance value measured by 89,8: 
+	Is the measured value within the manufacturers specified tolerance? yes
+2.
+	Measure voltage across the resistor R1 and calculate current I.
+	Voltage Vr1= 3,25, Resistance R1= 88,7
+	Current calculated: 0,03664 A
+	Change DMM to 20mA range, Change DMM to:
+	O.L
+	Change DMM to 2000uA range, measured value:
+	OL
+	Change DMM to 200mA range, Measured value:
+	35,7
+3.
+	Resistance R2 (Decoded)= 3090
+	Resistance R2 (Measured)= 3,08k
+4.
+	VR1 Calculated: 3,208 V
+	VR2 Calculated: 0,092 V
+	i Calculated: 1,04 mA
+	
+	VR1 Measured: 3,22 V
+	VR2 Measured: 0,09 V
+	i Measured: 1,04
+	i Measurement range: 20m
+5.
+	VR1 Calculated: 3,28 V
+	VR2 Calculated: 3,28 V
+	i Calculated: 38 mA
+	i1 Calculated: 37 mA
+	i2 Calculated: 1 mA
+
+	VR1 Measured: 3,31
+	VR2 Measured: 3,31
+	i Measured: 37,1 
+	i1 Measured: 36,1
+	i2 Measured: 01,0
+	i Measurement range: 200m
+	What can be concluded from your theory and Measurements?
+	measurements are dog
